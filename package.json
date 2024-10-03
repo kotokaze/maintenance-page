@@ -1,0 +1,13 @@
+{
+  "name": "maintenance-page",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "deploy": "wrangler pages deploy",
+    "dev": "wrangler pages dev",
+    "start": "wrangler pages dev"
+  },
+  "devDependencies": {
+    "wrangler": "^3.78.5"
+  }
+}
